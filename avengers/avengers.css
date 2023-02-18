@@ -1,0 +1,286 @@
+.main1{
+    
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url(../zavengers/a51237d79a75cd36004ecf5c10efd980.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*{
+    margin: 0;
+}
+.avengerspage{
+    background-color: aqua;
+    height: 80vh;
+    width: 100%;
+    background: url(../avengers/6358.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 1pc #0fffff75;
+    display: flex;
+    flex-direction: column;
+}
+h3{
+    color: white;
+    text-shadow: 0px 0px 7px white;
+    font-weight: bold;
+}
+.info{
+   /* background-color: blue;*/
+    height: 100%;
+    width: 90vh;
+}
+.names{
+   /* background-color: rgb(174, 0, 255);*/
+    height: 100%;
+    width: 90vh;
+}
+.nav{
+    width: 100%;
+    height: 90px;
+    display: flex;
+ /*  background-color: aqua;*/
+
+    justify-content: center;
+    align-items: center;
+}
+.abouttony{
+   /* background-color: aqua;*/
+    height: 100%;
+    width: 30vw;
+    float: right;
+    display: flex;
+    flex-direction: column;
+}
+.bio{
+    width: 100%;
+    height: 100%;
+   /* background-color: blue;*/
+    display: flex;
+    justify-content: space-between;
+}
+.iron{
+    font-size: 6ch;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3pt;
+    text-shadow: 0px 0px 6px white;
+}
+.tonyreal{
+    height: 100%;
+    width: 80px;
+   /* background-color: darkmagenta;*/
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.bio1{
+   /* background-color: crimson;*/
+    height: 100%;
+    width: 39ch;
+}
+.stark{
+    font-size: 4ch;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3pt;
+    text-shadow: 0px 0px 6px white;
+    rotate: 90deg;
+
+}
+.tonystark{
+    font-size: 4ch;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3pt;
+    text-shadow: 0px 0px 6px white;
+    rotate: 90deg;
+}
+.tats1{
+    font-size: 11ch;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3pt;
+    text-shadow: 0px 0px 7px white;
+    rotate: 90deg;
+
+}
+.tats2{
+    font-size: 11ch;
+    color: white;
+    font-family: fantasy;
+    letter-spacing: 3pt;
+    text-shadow: 0px 0px 7px white;
+    rotate: 90deg;
+}
+.life{
+color: white;
+font-size: 12pt;
+font-family:  serif;
+letter-spacing: 1pt;
+text-shadow: 0px 0px 3px white;
+line-height: 1.6em;
+
+}
+.hisname{
+    width: 100%;
+    height: 20ch;
+    /*background-color: rgb(60, 255, 0);*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tats{
+    /*background-color: red;*/
+    height: 100%;
+    width: 110px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.nav1{
+    width: 15pc;
+    height: 100%;
+   /* background-color: rgb(55, 0, 255);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav2{
+    width: 30ch;
+    height: 100%;
+   /* background-color: rgb(0, 255, 76);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.nav3{
+    width: 30ch;
+    height: 100%;
+    /*background-color: rgb(255, 0, 119);*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav4{
+    width: 50ch;
+    height: 80.3ch;
+    background-color: rgb(255, 0, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40pc -9.3pc 12pc 0px;
+    background: url(../avengers/Avengers-Flying-Iron-Man-PNG-Transparent-Image.png);
+    background-size: cover;
+    background-repeat: round;
+}.nav5{
+    width: 64ch;
+    height: 78.3ch;
+    background-color: rgb(255, 0, 119);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40pc -13pc 12pc 0px;
+    background: url(../avengers/0-2666_iron-man-flying-clip-art-iron-man-png.png);
+    background-size: cover;
+    background-repeat: round;
+  
+}
+
+.logo{
+    width: 18ch;
+    height: 60px;
+    background-color: rgb(255, 0, 119);
+    background: url(../avengers/logo.png);
+    background-repeat: round;
+    background-size: contain;
+}
+.home{
+   /* background-color: blueviolet;*/
+    width: 6pc;
+    height: 3pc;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.video{
+    /*background-color: rgb(226, 43, 67);*/
+    width: 6pc;
+    height: 3pc;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+
+}
+.gallery{
+  /* background-color: blueviolet;*/
+    width: 6pc;
+    height: 3pc;
+    display: flex;
+    justify-content:baseline;
+    align-items: center;
+
+}
+.contact{
+  /*background-color: rgb(226, 43, 67);*/
+    width: 6pc;
+    height: 3pc;
+    display: flex;
+    justify-content: baseline;
+    align-items: center;
+
+}
+.hometag{
+    color: white;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    text-shadow: 0px 0px 6px white;
+
+
+}
+.vidtag{
+    color: white;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    text-shadow: 0px 0px 6px white;
+
+
+
+}
+/*.pic{
+    background-color: blue;
+    width: 30vh;
+    height: 60vh;
+    margin: 12px 0px cm 17cm;
+    
+}*/
+.gallerytag{
+    color: white;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    text-shadow: 0px 0px 6px white;
+
+
+}
+.contacttag{
+    color: white;
+    font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    text-shadow: 0px 0px 6px white;
+
+}
+.body{
+   /* background-color: chocolate;*/
+    height: 40pc;
+    width: 1005;
+    display: flex;
+}
